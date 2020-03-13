@@ -16,6 +16,7 @@ public class Examen_andreu_gonzalez {
      */
     public static void main(String[] args) {
         System.out.println("Me llamo andreu gonzalez y estoy haciendo el examen de la UD4");
+        System.out.println("Voy aprobar el examen");
     }
     
 }
